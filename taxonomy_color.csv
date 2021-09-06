@@ -1,0 +1,378 @@
+Red,Red
+White,White
+Grey,Grey
+Orange,Orange
+Silver,Silver
+Black,Black
+Yellow,Yellow
+Blue,Blue
+Brown,Brown
+Gold,Gold
+Navy,Navy
+Beige,Beige
+Purple,Purple
+Pink,Pink
+Mustard,Yellow
+Wheat,Beige
+Lilac,Purple
+Platinum,Yellow
+Fuchsia,Pink
+Smoke,Grey
+Citrus,Orange
+Aqua,Blue
+Mushroom,Beige
+Gold,Yellow
+Wood,Brown
+Indigo,Blue
+Natural,Beige
+Ebony,Brown
+Glass,White
+Rose,Red
+Multi,White
+Chocolate,Brown
+Clear,White
+Wine,Red
+Sand,Yellow
+Ivory,Beige
+Vanilla,Beige
+Oak,Brown
+Ocean,Blue
+Marine,Blue
+Cream,Beige
+Cobalt,Blue
+Lime,Yellow
+Black,Black
+Blue,Blue
+Brown,Brown
+Cream,Cream
+Gold,Gold
+Green,Green
+Grey,Grey
+Orange,Orange
+Pink,Pink
+Purple,Purple
+Red,Red
+Silver,Silver
+White,White
+Yellow,Yellow
+Beige,Beige
+"Beige, Grey","Beige, Grey"
+Black,Black
+"Black, Blue","Black, Blue"
+"Black, Brown","Black, Brown"
+"Black, Brown, Cream","Black, Brown, Cream"
+"Black, Cream","Black, Cream"
+"Black, Gold","Black, Gold"
+"Black, Green","Black, Green"
+"Black, Grey","Black, Grey"
+"Black, Orange","Black, Orange"
+"Black, Pink","Black, Pink"
+"Black, Purple","Black, Purple"
+"Black, Red","Black, Red"
+"Black, Silver","Black, Silver"
+"Black, White","Black, White"
+"Black, White, Silver","Black, White, Silver"
+"Black, Yellow","Black, Yellow"
+Blue,Blue
+"Blue, Black","Blue, Black"
+"Blue, Gold","Blue, Gold"
+"Blue, Green","Blue, Green"
+"Blue, Grey","Blue, Grey"
+"Blue, Orange","Blue, Orange"
+"Blue, Pink","Blue, Pink"
+"Blue, Pink, Orange","Blue, Pink, Orange"
+"Blue, Purple","Blue, Purple"
+"Blue, Red","Blue, Red"
+"Blue, Silver","Blue, Silver"
+"Blue, Violet","Blue, Violet"
+"Blue, White","Blue, White"
+Bronze,Bronze
+"Bronze, Cream","Bronze, Cream"
+Brown,Brown
+"Brown, Black","Brown, Black"
+"Brown, Gold","Brown, Gold"
+"Brown, Grey","Brown, Grey"
+"Brown, Red","Brown, Red"
+Coral,Coral
+"Coral, Black","Coral, Black"
+"Coral, Blue","Coral, Blue"
+"Coral, Grey","Coral, Grey"
+"Coral, Pink","Coral, Pink"
+"Coral, Plum","Coral, Plum"
+Cream,Cream
+"Cream, Beige","Cream, Beige"
+"Cream, Beige, Brown","Cream, Beige, Brown"
+"Cream, Gold","Cream, Gold"
+"Cream, Grey","Cream, Grey"
+"Cream, Pink","Cream, Pink"
+"Cream, White","Cream, White"
+"Cream, Yellow","Cream, Yellow"
+Gold,Gold
+"Gold, Black","Gold, Black"
+"Gold, Black, White","Gold, Black, White"
+"Gold, Brown","Gold, Brown"
+"Gold, Pink","Gold, Pink"
+"Gold, Pink, White","Gold, Pink, White"
+"Gold, Silver","Gold, Silver"
+"Gold, Silver, Bronze","Gold, Silver, Bronze"
+"Gold, White","Gold, White"
+Green,Green
+"Green, Black","Green, Black"
+"Green, Blue","Green, Blue"
+"Green, Cream","Green, Cream"
+"Green, Grey","Green, Grey"
+"Green, Pink, Purple","Green, Pink, Purple"
+"Green, Purple","Green, Purple"
+"Green, Red","Green, Red"
+"Green, White","Green, White"
+"Green, Yellow","Green, Yellow"
+Grey,Grey
+"Grey, Black","Grey, Black"
+"Grey, Blue","Grey, Blue"
+"Grey, Cream","Grey, Cream"
+"Grey, Green","Grey, Green"
+"Grey, Mint","Grey, Mint"
+"Grey, Pink","Grey, Pink"
+"Grey, Purple","Grey, Purple"
+"Grey, Violet","Grey, Violet"
+"Grey, White","Grey, White"
+"Grey, Yellow","Grey, Yellow"
+Indigo,Indigo
+"Indigo, White","Indigo, White"
+Khaki,Khaki
+Navy,Navy
+"Navy, Blue","Navy, Blue"
+"Navy, Cream","Navy, Cream"
+"Navy, Gold","Navy, Gold"
+"Navy, Silver","Navy, Silver"
+"Navy, Taupe","Navy, Taupe"
+"Navy, White","Navy, White"
+Orange,Orange
+"Orange, Black","Orange, Black"
+"Orange, Cream","Orange, Cream"
+"Orange, White","Orange, White"
+Pink,Pink
+"Pink, Blue","Pink, Blue"
+"Pink, Purple","Pink, Purple"
+"Pink, Purple, Blue","Pink, Purple, Blue"
+"Pink, White","Pink, White"
+"Pink, Yellow","Pink, Yellow"
+Purple,Purple
+"Purple, Black","Purple, Black"
+"Purple, Blue","Purple, Blue"
+"Purple, Pink","Purple, Pink"
+"Purple, Red","Purple, Red"
+"Purple, White","Purple, White"
+Red,Red
+"Red, Black","Red, Black"
+"Red, Blue","Red, Blue"
+"Red, Brown","Red, Brown"
+"Red, Green, Yellow","Red, Green, Yellow"
+"Red, Grey","Red, Grey"
+"Red, Pink","Red, Pink"
+"Red, Purple","Red, Purple"
+"Red, Violet","Red, Violet"
+"Red, White","Red, White"
+"Red, Yellow","Red, Yellow"
+Silver,Silver
+Silver Grey,Silver Grey
+"Silver, Black","Silver, Black"
+"Silver, Black, White","Silver, Black, White"
+"Silver, Blue","Silver, Blue"
+"Silver, Blue, White","Silver, Blue, White"
+"Silver, Gold","Silver, Gold"
+"Silver, Green","Silver, Green"
+"Silver, Green, White","Silver, Green, White"
+"Silver, Grey","Silver, Grey"
+"Silver, Orange","Silver, Orange"
+"Silver, Pink","Silver, Pink"
+"Silver, Pink, White","Silver, Pink, White"
+"Silver, Purple","Silver, Purple"
+"Silver, Purple, Pink","Silver, Purple, Pink"
+"Silver, Red","Silver, Red"
+"Silver, Red, White","Silver, Red, White"
+"Silver, Turquoise","Silver, Turquoise"
+"Silver, Violet","Silver, Violet"
+"Silver, White","Silver, White"
+"Silver, Yellow","Silver, Yellow"
+"Silver, Yellow, Gold","Silver, Yellow, Gold"
+Violet,Violet
+"Violet, Blue, Pink","Violet, Blue, Pink"
+"Violet, Green","Violet, Green"
+White,White
+"White, Black","White, Black"
+"White, Black, Cream","White, Black, Cream"
+"White, Black, Silver, Gold","White, Black, Silver, Gold"
+"White, Blue","White, Blue"
+"White, Gold","White, Gold"
+"White, Green","White, Green"
+"White, Grey","White, Grey"
+"White, Pink","White, Pink"
+"White, Purple","White, Purple"
+"White, Silver","White, Silver"
+"White, Turquoise","White, Turquoise"
+Yellow,Yellow
+"Yellow, Blue","Yellow, Blue"
+"Yellow, Gold","Yellow, Gold"
+"Yellow, Gold, Black","Yellow, Gold, Black"
+"Yellow, Gold, White","Yellow, Gold, White"
+"Yellow, Green","Yellow, Green"
+"Yellow, Grey","Yellow, Grey"
+"Yellow, Orange","Yellow, Orange"
+"Yellow, Pink","Yellow, Pink"
+"Beige, Black","Beige, Black"
+"Beige, Black, Yellow","Beige, Black, Yellow"
+"Beige, Blue, Pink","Beige, Blue, Pink"
+"Beige, Brown","Beige, Brown"
+"Beige, Green, Pink","Beige, Green, Pink"
+"Beige, Orange","Beige, Orange"
+"Beige, Pink, Green","Beige, Pink, Green"
+"Beige, Pink, Yellow","Beige, Pink, Yellow"
+"Beige, Red, Black","Beige, Red, Black"
+"Black, Blue Green","Black, Blue Green"
+"Black, Blue, Green","Black, Blue, Green"
+"Black, Blue, Orange","Black, Blue, Orange"
+"Black, Blue, Pink","Black, Blue, Pink"
+"Black, Blue, Purple","Black, Blue, Purple"
+"Black, Blue, White","Black, Blue, White"
+"Black, Blue, Yellow","Black, Blue, Yellow"
+"Black, Brown, Blue","Black, Brown, Blue"
+"Black, Cream, Red","Black, Cream, Red"
+"Black, Green, Blue","Black, Green, Blue"
+"Black, Green, Brown","Black, Green, Brown"
+"Black, Green, Grey","Black, Green, Grey"
+"Black, Green, Pink","Black, Green, Pink"
+"Black, Green, Red","Black, Green, Red"
+"Black, Green, Red","Black, Green, Red"
+"Black, Green, White","Black, Green, White"
+"Black, Green, Yellow","Black, Green, Yellow"
+"Black, Grey, Blue","Black, Grey, Blue"
+"Black, Grey, Green","Black, Grey, Green"
+"Black, Grey, Orange","Black, Grey, Orange"
+"Black, Grey, Red","Black, Grey, Red"
+"Black, Grey, White","Black, Grey, White"
+"Black, Grey, Yellow","Black, Grey, Yellow"
+"Black, Orange, Blue","Black, Orange, Blue"
+"Black, Orange, Green","Black, Orange, Green"
+"Black, Orange, Grey","Black, Orange, Grey"
+"Black, Orange, White","Black, Orange, White"
+"Black, Pink, Blue","Black, Pink, Blue"
+"Black, Pink, Purple","Black, Pink, Purple"
+"Black, Pink, Yellow","Black, Pink, Yellow"
+"Black, Purple, Brown","Black, Purple, Brown"
+"Black, Purple, Green","Black, Purple, Green"
+"Black, Red, Blue","Black, Red, Blue"
+"Black, Red, Pink","Black, Red, Pink"
+"Black, Red, White","Black, Red, White"
+"Black, Red, Yellow","Black, Red, Yellow"
+"Black, White, Blue","Black, White, Blue"
+"Black, White, Red","Black, White, Red"
+"Black, White, Yellow","Black, White, Yellow"
+"Black, Yellow, Blue","Black, Yellow, Blue"
+"Black, Yellow, Green","Black, Yellow, Green"
+"Black, Yellow, Grey","Black, Yellow, Grey"
+"Black, Yellow, Orange","Black, Yellow, Orange"
+"Black, Yellow, Pink","Black, Yellow, Pink"
+"Black, Yellow, Red","Black, Yellow, Red"
+"Black, Brown","Black, Brown"
+"Black,White","Black,White"
+"Black,White, Brown","Black,White, Brown"
+"Blue, Black, Green","Blue, Black, Green"
+"Blue, Black, Grey","Blue, Black, Grey"
+"Blue, Black, Orange","Blue, Black, Orange"
+"Blue, Black, Pink","Blue, Black, Pink"
+"Blue, Black, Red","Blue, Black, Red"
+"Blue, Black, White","Blue, Black, White"
+"Blue, Black, Yellow","Blue, Black, Yellow"
+"Blue, Black,Orange","Blue, Black,Orange"
+"Blue, Brown","Blue, Brown"
+"Blue, Brown, Yellow","Blue, Brown, Yellow"
+"Blue, Cream, Red","Blue, Cream, Red"
+"Blue, Green, Pink","Blue, Green, Pink"
+"Blue, Green, Purple","Blue, Green, Purple"
+"Blue, Green, Red","Blue, Green, Red"
+"Blue, Green, White","Blue, Green, White"
+"Blue, Green, Yellow","Blue, Green, Yellow"
+"Blue, Grey, Black","Blue, Grey, Black"
+"Blue, Grey, Brown","Blue, Grey, Brown"
+"Blue, Grey, Red","Blue, Grey, Red"
+"Blue, Grey, White","Blue, Grey, White"
+"Blue, Grey, Yellow","Blue, Grey, Yellow"
+"Blue, Orange, Grey","Blue, Orange, Grey"
+"Blue, Orange, White","Blue, Orange, White"
+"Blue, Orange, Yellow","Blue, Orange, Yellow"
+"Blue, Pink, Green","Blue, Pink, Green"
+"Blue, Pink, White","Blue, Pink, White"
+"Blue, Pink, Yellow","Blue, Pink, Yellow"
+"Blue, Purple, Green","Blue, Purple, Green"
+"Blue, Purple, White","Blue, Purple, White"
+"Blue, Red, Pink","Blue, Red, Pink"
+"Blue, Red, Pink","Blue, Red, Pink"
+"Blue, Red, White","Blue, Red, White"
+"Blue, Silver","Blue, Silver"
+"Blue, Yellow, Orange","Blue, Yellow, Orange"
+"Brown, Silver","Brown, Silver"
+"Cream, Red, Blue","Cream, Red, Blue"
+"Cream, Red, Green","Cream, Red, Green"
+"Black, Brown, Green","Black, Brown, Green"
+"Black, Brown, Sliver","Black, Brown, Sliver"
+"Black, Pink, White","Black, Pink, White"
+"Black, Sliver, White","Black, Sliver, White"
+"Black, White, Brown","Black, White, Brown"
+"Black, White, Green","Black, White, Green"
+"Black, White, Grey","Black, White, Grey"
+"Black, White, Orange","Black, White, Orange"
+"Blue, Pink, Purple","Blue, Pink, Purple"
+"Blue, Sliver, White","Blue, Sliver, White"
+"Blue, White, Black","Blue, White, Black"
+"Blue, White, Brown","Blue, White, Brown"
+"Blue, White, Grey","Blue, White, Grey"
+"Blue, White, Pink","Blue, White, Pink"
+"Blue, White, Red","Blue, White, Red"
+"Brown, Black, Green","Brown, Black, Green"
+"Brown, Black, White","Brown, Black, White"
+"Brown, White","Brown, White"
+"Brown, White, Black","Brown, White, Black"
+"Cream, White, Pink","Cream, White, Pink"
+"Gold, Sliver, White","Gold, Sliver, White"
+"Gold, White, Black","Gold, White, Black"
+"Orange, Black, White","Orange, Black, White"
+"Orange, White, Pink","Orange, White, Pink"
+"Orange, White, Red","Orange, White, Red"
+"Pink, Black","Pink, Black"
+"Pink, Green, Blue","Pink, Green, Blue"
+"Pink, White, Black","Pink, White, Black"
+"Pink, White, Orange","Pink, White, Orange"
+"Pink, White, Silver","Pink, White, Silver"
+"Pink, White, Yellow","Pink, White, Yellow"
+"Red, White, Black","Red, White, Black"
+"Red, White, Orange","Red, White, Orange"
+"Silver, White, Gold","Silver, White, Gold"
+"White, Blue, Grey","White, Blue, Grey"
+"White, Blue, Red","White, Blue, Red"
+"White, Blue, Yellow","White, Blue, Yellow"
+"White, Cream, Black","White, Cream, Black"
+"White, Green, Red","White, Green, Red"
+"White, Green, Yellow","White, Green, Yellow"
+"White, Grey, Orange","White, Grey, Orange"
+"White, Grey, Pink","White, Grey, Pink"
+"White, Orange, Blue","White, Orange, Blue"
+"White, Pink, Yellow","White, Pink, Yellow"
+"White, Silver, Blue","White, Silver, Blue"
+"White, Silver, Pink","White, Silver, Pink"
+"White, Silver, Yellow","White, Silver, Yellow"
+"White, Yellow","White, Yellow"
+"Yellow, Green, White","Yellow, Green, White"
+Black/,Black
+White/,White
+Red/,Red
+Zwart/,Black
+Wit/,White
+Grey/,Grey
+Yellow/,Yellow
+Wit,White
+Zwart,Black
+Schwarz,Black
+Weiß,White
+Grau,Grey
+Rot,Red
